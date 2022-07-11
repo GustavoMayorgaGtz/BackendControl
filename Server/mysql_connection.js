@@ -1,23 +1,21 @@
 var mysql = require('mysql');
+let conexion;
 function ConnectedMySql()
 {
     var con = mysql.createConnection({
     host: "localhost",
     user: "root",
     password:"",
-    database: "Control"
+    database: "control"
 })
 con.connect((err) => {
    if(err)
-        throw err
+        console.log("database no conectada");
 
     console.log("Mysql Connected");
-    let consulta = "CREATE TABLE LUZ (Id int, name varchar(20), status varchar(10), PRIMARY KEY (Id))"
-    con.query(consulta, (err, result) =>  {
-        if (err) throw err;
-        console.log(result);
-      });
 })
+
+return con;
 }
 
-module.exports = ConnectedMySql;
+module.exports = {ConnectedMySql};

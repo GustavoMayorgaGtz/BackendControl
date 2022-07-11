@@ -3,15 +3,17 @@ const app = express();
 const parser = require("body-parser");
 const cors = require("cors");
 const conexion = require('./conexion.js');
-const mysqlConnection = require("./mysql_connection");
+const {ConnectedMySql}= require("./mysql_connection");
+ConnectedMySql();
 const LightsRute = require("./Rutes/LuzRutel");
+const AdminRute = require('./Rutes/AdminRutes');
 require('dotenv').config();
 conexion();
-mysqlConnection();
 app.use(cors());
 app.use(parser.json());
 app.use(parser.urlencoded({ extended: true }));
 app.use("/Lights", LightsRute);
+app.use("/Admin", AdminRute);
 
 /****Log*****/
 var fs = require('fs'); var util = require('util');
