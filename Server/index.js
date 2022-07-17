@@ -7,6 +7,7 @@ const {ConnectedMySql}= require("./mysql_connection");
 ConnectedMySql();
 const LightsRute = require("./Rutes/LuzRutel");
 const AdminRute = require('./Rutes/AdminRutes');
+const LucesRute = require("./Rutes/LucesRute");
 require('dotenv').config();
 conexion();
 app.use(cors());
@@ -14,7 +15,7 @@ app.use(parser.json());
 app.use(parser.urlencoded({ extended: true }));
 app.use("/Lights", LightsRute);
 app.use("/Admin", AdminRute);
-
+app.use("/Luces", LucesRute);
 /****Log*****/
 var fs = require('fs'); var util = require('util');
 var log_file = fs.createWriteStream(__dirname + '/node.log', {flags : 'w'});

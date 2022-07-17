@@ -1,6 +1,5 @@
 var mysql = require('mysql');
-let conexion;
-function ConnectedMySql()
+async function ConnectedMySql()
 {
     var con = mysql.createConnection({
     host: "localhost",
@@ -8,13 +7,16 @@ function ConnectedMySql()
     password:"",
     database: "control"
 })
-con.connect((err) => {
+ await con.connect((err) => {
    if(err)
+   {
         console.log("database no conectada");
+   }
 
     console.log("Mysql Connected");
 })
-
+// console.log("CONEXION CONNECTED");
+// console.log(con);
 return con;
 }
 

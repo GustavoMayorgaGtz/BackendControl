@@ -2,9 +2,21 @@ const { ConnectedMySql } = require("../mysql_connection");
 let conexion;
 class QUERYS {
   constructor() {
-    let conexion = ConnectedMySql();
-    console.log("CONEXION");
-    this.conexion = conexion;
+    this.defineConexion();
+  }
+
+  defineConexion() {
+    ConnectedMySql()
+      .then((data) => {
+        conexion = data;
+       /* console.log("Conexion Done in Query")
+        console.log(conexion);*/
+        return data;
+      })
+      .catch((err) => {
+        console.log("error in querys");
+        return err;
+      })
   }
 
   CreateTableUsuarios() {
@@ -12,25 +24,21 @@ class QUERYS {
     console.log("-----> CreateTableUsuarios")
 
     console.log(consulta);
-    conexion.connect((err) => {
-      if (err)
-        throw err
 
-      conexion.query(consulta, (err, result) => {
-        if (err) {
-          console.log("/***********ERROR************/")
-          console.log("querys.js function CreateTableUsuario");
-          console.log(err);
-          return err;
-        }
-        console.log("//Result(Open)")
-        console.log(result);
-        console.log("//Result(Close)")
-        return result;
-      });
-    })
-
+    conexion.query(consulta, (err, result) => {
+      if (err) {
+        console.log("/***********ERROR************/")
+        console.log("querys.js function CreateTableUsuario");
+        console.log(err);
+        return err;
+      }
+      console.log("//Result(Open)")
+      console.log(result);
+      console.log("//Result(Close)")
+      return result;
+    });
   }
+
 
   async CreateTableLuz() {
     let consulta = "CREATE TABLE Luces (id_luz int AUTO_INCREMENT, nombre varchar(20), status boolean, PRIMARY KEY (id_luz))"
@@ -46,7 +54,7 @@ class QUERYS {
       console.log("//Result(Open)")
       console.log(result);
       console.log("//Result(Close)")
-      return await result;
+      return  result;
     });
   }
 
@@ -145,7 +153,7 @@ class QUERYS {
   }
 
   async CrearLuz(nombre, status) {
-    let consulta = "Insert into Luces values(,\"" + nombre + "\"," + status + ")";
+    let consulta = "Insert into Luces values(null ,\"" + nombre + "\"," + status + ")";
     console.log("-----> CrearLuz")
     console.log(consulta);
     return conexion.query(consulta, async (err, result) => {
@@ -181,7 +189,7 @@ class QUERYS {
   }
 
   async CambiarStatusLuz(id, status) {
-    let consulta = "update Luces set status=" + status + " where id = " + id + ";";
+    let consulta = "update Luces set status = " + status + " where id_luz = " + id + ";";
     console.log("-----> CambiarStatusLuz")
     console.log(consulta);
     return conexion.query(consulta, async (err, result) => {
@@ -198,23 +206,25 @@ class QUERYS {
     });
   }
 
-  async GetLuces() {
-    let consulta = "select * from Luces;";
+  async GetLuces(res) {
+    let consulta = "select * from luces;";
     console.log("-----> GetLuces")
     console.log(consulta);
-    return conexion.query(consulta, async (err, result) => {
+
+     conexion.query(consulta, async (err, result) => {
       if (err) {
         console.log("/***********ERROR************/")
         console.log("querys.js function GetLuces");
-        console.log(err);
-        return err;
+        res.send("error")
       }
       console.log("//Result(Open)")
       console.log(result);
       console.log("//Result(Close)")
-      return await result;
+      res.send(result);
     });
-  }
+   
+
+    }
 }
 
 

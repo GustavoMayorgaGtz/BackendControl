@@ -2,3 +2,1763 @@ Servidor works!
 connection done!
 Mysql Connected
 Mysql Connected
+Mysql Connected
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 0 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 0 } ]
+//Result(Close)
+-----> CambiarStatusLuz
+update Luces set status = 1 where id_luz = 1;
+//Result(Open)
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)
+-----> GetLuces
+select * from luces;
+//Result(Open)
+[ RowDataPacket { id_luz: 1, nombre: 'Luz 1', status: 1 } ]
+//Result(Close)

@@ -9,22 +9,13 @@ rute.get("/CreateTableUsuarios", (req, res) => {
     
 })
 rute.get("/CreateTableLuz", (req, res) => {
-    Querys.CreateTableLuz()
-    .then((data) => {
-        res.send(data)
-    })
-    .catch((err) => {
-        res.send(err)
-    })
+   let response = Querys.CreateTableLuz()
+   res.send(response);
 })
 rute.get("/CreateTableReference", (req, res) => {
-     Querys.CreateTableReference()
-    .then((data) => {
-        res.send(data)
-    })
-    .catch((err) => {
-        res.send(err)
-    })
+   let response =   Querys.CreateTableReference()
+   res.send(response);
+   
 })
 rute.get("/CreateAllTables", (req, res) => {
     Querys.CreateAllTables()

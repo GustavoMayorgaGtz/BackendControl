@@ -1,7 +1,32 @@
-POST http://192.168.1.251:3000/Lights/CreateLight
-Content-Type: application/json
+# POST http://192.168.1.251:3000/Lights/CreateLight
+# Content-Type: application/json
 
-{
-    "nombre": "Luz 1",
-    "status": "false"
-}
+# {    "nombre": "Luz 1",
+#     "status": "false"
+# }
+# GET http://192.168.1.251:3000/Admin/CreateTableUsuarios
+# Content-Type: application/json
+
+# GET http://192.168.1.251:3000/Admin/CreateTableLuz
+# Content-Type: application/json
+
+
+# GET http://192.168.1.251:3000/Admin/CreateTableReference
+# Content-Type: application/
+
+# POST http://192.168.1.251:3000/Luces/CrearLuz
+# Content-Type: application/json
+
+# {    "nombre": "Luz 1",
+#     "status": "false"
+# }
+
+# POST http://192.168.1.251:3000/Luces/CambiarEstadoLuz
+# Content-Type: application/json
+
+# {    "id": 1,
+#     "status": 1
+# }
+
+GET http://192.168.1.251:3000/Luces/GetLuces
+
